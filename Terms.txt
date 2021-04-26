@@ -1,0 +1,3 @@
+OLTP - online transactional processing
+ODS - operational data store
+ODW - opsview data warehouse
